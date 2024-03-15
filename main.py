@@ -1,6 +1,3 @@
-import random
-import time
-
 from model.Device import Device
 from model.Event import Event
 from model.State import State
