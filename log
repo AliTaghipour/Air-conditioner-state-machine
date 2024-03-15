@@ -1,0 +1,873 @@
+Cooler already turned off
+Heater already turned off
+current state: s1
+------------
+event: t>30
+t>30
+Cooler already turned off
+Heater already turned off
+current state: s1
+------------
+event: t<35
+t<35
+Cooler already turned off
+Heater already turned off
+current state: s1
+------------
+event: t>35
+t>35
+current state: s2
+------------
+event: t<40
+t<40
+Cooler  speed set to: 4
+current state: s2-s1
+------------
+event: t>40
+t>40
+Cooler  speed set to: 4
+current state: s2-s2
+------------
+event: t<40
+t<40
+Cooler  speed set to: 6
+current state: s2-s2
+------------
+event: t>35
+t>35
+Cooler  speed set to: 6
+current state: s2-s2
+------------
+event: t<40
+t<40
+Cooler  speed set to: 6
+current state: s2-s2
+------------
+event: t>35
+t>35
+Cooler  speed set to: 6
+current state: s2-s2
+------------
+event: t<35
+t<35
+Cooler  speed set to: 6
+current state: s2-s1
+------------
+event: t>30
+t>30
+Cooler  speed set to: 4
+current state: s2-s1
+------------
+event: t<35
+t<35
+Cooler  speed set to: 4
+current state: s2-s1
+------------
+event: t>30
+t>30
+Cooler  speed set to: 4
+current state: s2-s1
+------------
+event: t<35
+t<35
+Cooler  speed set to: 4
+current state: s2-s1
+------------
+event: t>30
+t>30
+Cooler  speed set to: 4
+current state: s2-s1
+------------
+event: t<25
+t<25
+Cooler already turned off
+Heater already turned off
+current state: s1
+------------
+event: t<15
+t<15
+Cooler already turned off
+Turning on Heater
+current state: s3
+------------
+event: t<25
+t<25
+Cooler already turned off
+Heater already turned on
+current state: s3
+------------
+event: t<15
+t<15
+Cooler already turned off
+Heater already turned on
+current state: s3
+------------
+event: t<25
+t<25
+Cooler already turned off
+Heater already turned on
+current state: s3
+------------
+event: t<15
+t<15
+Cooler already turned off
+Heater already turned on
+current state: s3
+------------
+event: t<25
+t<25
+Cooler already turned off
+Heater already turned on
+current state: s3
+------------
+event: t<15
+t<15
+Cooler already turned off
+Heater already turned on
+current state: s3
+------------
+event: t<15
+t<15
+Cooler already turned off
+Heater already turned on
+current state: s3
+------------
+event: t<15
+t<15
+Cooler already turned off
+Heater already turned on
+current state: s3
+------------
+event: t<25
+t<25
+Cooler already turned off
+Heater already turned on
+current state: s3
+------------
+event: t>30
+t>30
+Cooler already turned off
+Turning off Heater
+current state: s1
+------------
+event: t<35
+t<35
+Cooler already turned off
+Heater already turned off
+current state: s1
+------------
+event: t>30
+t>30
+Cooler already turned off
+Heater already turned off
+current state: s1
+------------
+event: t<35
+t<35
+Cooler already turned off
+Heater already turned off
+current state: s1
+------------
+event: t>30
+t>30
+Cooler already turned off
+Heater already turned off
+current state: s1
+------------
+event: t<25
+t<25
+Cooler already turned off
+Heater already turned off
+current state: s1
+------------
+event: t<15
+t<15
+Cooler already turned off
+Turning on Heater
+current state: s3
+------------
+event: t<25
+t<25
+Cooler already turned off
+Heater already turned on
+current state: s3
+------------
+event: t<15
+t<15
+Cooler already turned off
+Heater already turned on
+current state: s3
+------------
+event: t<25
+t<25
+Cooler already turned off
+Heater already turned on
+current state: s3
+------------
+event: t<15
+t<15
+Cooler already turned off
+Heater already turned on
+current state: s3
+------------
+event: t<25
+t<25
+Cooler already turned off
+Heater already turned on
+current state: s3
+------------
+event: t>30
+t>30
+Cooler already turned off
+Turning off Heater
+current state: s1
+------------
+event: t<25
+t<25
+Cooler already turned off
+Heater already turned off
+current state: s1
+------------
+event: t<15
+t<15
+Cooler already turned off
+Turning on Heater
+current state: s3
+------------
+event: t<15
+t<15
+Cooler already turned off
+Heater already turned on
+current state: s3
+------------
+event: t<15
+t<15
+Cooler already turned off
+Heater already turned on
+current state: s3
+------------
+event: t<25
+t<25
+Cooler already turned off
+Heater already turned on
+current state: s3
+------------
+event: t>30
+t>30
+Cooler already turned off
+Turning off Heater
+current state: s1
+------------
+event: t<35
+t<35
+Cooler already turned off
+Heater already turned off
+current state: s1
+------------
+event: t>35
+t>35
+current state: s2
+------------
+event: t<40
+t<40
+Cooler  speed set to: 4
+current state: s2-s1
+------------
+event: t>40
+t>40
+Cooler  speed set to: 4
+current state: s2-s2
+------------
+event: t>45
+t>45
+Cooler  speed set to: 6
+current state: s2-s3
+------------
+event: t>40
+t>40
+Cooler  speed set to: 8
+current state: s2-s3
+------------
+event: t>45
+t>45
+Cooler  speed set to: 8
+current state: s2-s3
+------------
+event: t>40
+t>40
+Cooler  speed set to: 8
+current state: s2-s3
+------------
+event: t>45
+t>45
+Cooler  speed set to: 8
+current state: s2-s3
+------------
+event: t>40
+t>40
+Cooler  speed set to: 8
+current state: s2-s3
+------------
+event: t>45
+t>45
+Cooler  speed set to: 8
+current state: s2-s3
+------------
+event: t>45
+t>45
+Cooler  speed set to: 8
+current state: s2-s3
+------------
+event: t>45
+t>45
+Cooler  speed set to: 8
+current state: s2-s3
+------------
+event: t>40
+t>40
+Cooler  speed set to: 8
+current state: s2-s3
+------------
+event: t>45
+t>45
+Cooler  speed set to: 8
+current state: s2-s3
+------------
+event: t>45
+t>45
+Cooler  speed set to: 8
+current state: s2-s3
+------------
+event: t>40
+t>40
+Cooler  speed set to: 8
+current state: s2-s3
+------------
+event: t<40
+t<40
+Cooler  speed set to: 8
+current state: s2-s2
+------------
+event: t>40
+t>40
+Cooler  speed set to: 6
+current state: s2-s2
+------------
+event: t<40
+t<40
+Cooler  speed set to: 6
+current state: s2-s2
+------------
+event: t>40
+t>40
+Cooler  speed set to: 6
+current state: s2-s2
+------------
+event: t<40
+t<40
+Cooler  speed set to: 6
+current state: s2-s2
+------------
+event: t>35
+t>35
+Cooler  speed set to: 6
+current state: s2-s2
+------------
+event: t<40
+t<40
+Cooler  speed set to: 6
+current state: s2-s2
+------------
+event: t>40
+t>40
+Cooler  speed set to: 6
+current state: s2-s2
+------------
+event: t>45
+t>45
+Cooler  speed set to: 6
+current state: s2-s3
+------------
+event: t>40
+t>40
+Cooler  speed set to: 8
+current state: s2-s3
+------------
+event: t<40
+t<40
+Cooler  speed set to: 8
+current state: s2-s2
+------------
+event: t>40
+t>40
+Cooler  speed set to: 6
+current state: s2-s2
+------------
+event: t>45
+t>45
+Cooler  speed set to: 6
+current state: s2-s3
+------------
+event: t>40
+t>40
+Cooler  speed set to: 8
+current state: s2-s3
+------------
+event: t<40
+t<40
+Cooler  speed set to: 8
+current state: s2-s2
+------------
+event: t>35
+t>35
+Cooler  speed set to: 6
+current state: s2-s2
+------------
+event: t<35
+t<35
+Cooler  speed set to: 6
+current state: s2-s1
+------------
+event: t>35
+t>35
+Cooler  speed set to: 4
+current state: s2-s1
+------------
+event: t<35
+t<35
+Cooler  speed set to: 4
+current state: s2-s1
+------------
+event: t>35
+t>35
+Cooler  speed set to: 4
+current state: s2-s1
+------------
+event: t<35
+t<35
+Cooler  speed set to: 4
+current state: s2-s1
+------------
+event: t>30
+t>30
+Cooler  speed set to: 4
+current state: s2-s1
+------------
+event: t<35
+t<35
+Cooler  speed set to: 4
+current state: s2-s1
+------------
+event: t>30
+t>30
+Cooler  speed set to: 4
+current state: s2-s1
+------------
+event: t<25
+t<25
+Cooler already turned off
+Heater already turned off
+current state: s1
+------------
+event: t>30
+t>30
+Cooler already turned off
+Heater already turned off
+current state: s1
+------------
+event: t<25
+t<25
+Cooler already turned off
+Heater already turned off
+current state: s1
+------------
+event: t<15
+t<15
+Cooler already turned off
+Turning on Heater
+current state: s3
+------------
+event: t<25
+t<25
+Cooler already turned off
+Heater already turned on
+current state: s3
+------------
+event: t<15
+t<15
+Cooler already turned off
+Heater already turned on
+current state: s3
+------------
+event: t<25
+t<25
+Cooler already turned off
+Heater already turned on
+current state: s3
+------------
+event: t>30
+t>30
+Cooler already turned off
+Turning off Heater
+current state: s1
+------------
+event: t<35
+t<35
+Cooler already turned off
+Heater already turned off
+current state: s1
+------------
+event: t>35
+t>35
+current state: s2
+------------
+event: t<35
+t<35
+Cooler  speed set to: 4
+current state: s2-s1
+------------
+event: t>35
+t>35
+Cooler  speed set to: 4
+current state: s2-s1
+------------
+event: t<35
+t<35
+Cooler  speed set to: 4
+current state: s2-s1
+------------
+event: t>35
+t>35
+Cooler  speed set to: 4
+current state: s2-s1
+------------
+event: t<40
+t<40
+Cooler  speed set to: 4
+current state: s2-s1
+------------
+event: t>40
+t>40
+Cooler  speed set to: 4
+current state: s2-s2
+------------
+event: t>45
+t>45
+Cooler  speed set to: 6
+current state: s2-s3
+------------
+event: t>40
+t>40
+Cooler  speed set to: 8
+current state: s2-s3
+------------
+event: t<40
+t<40
+Cooler  speed set to: 8
+current state: s2-s2
+------------
+event: t>40
+t>40
+Cooler  speed set to: 6
+current state: s2-s2
+------------
+event: t>45
+t>45
+Cooler  speed set to: 6
+current state: s2-s3
+------------
+event: t>40
+t>40
+Cooler  speed set to: 8
+current state: s2-s3
+------------
+event: t>45
+t>45
+Cooler  speed set to: 8
+current state: s2-s3
+------------
+event: t>45
+t>45
+Cooler  speed set to: 8
+current state: s2-s3
+------------
+event: t>40
+t>40
+Cooler  speed set to: 8
+current state: s2-s3
+------------
+event: t>45
+t>45
+Cooler  speed set to: 8
+current state: s2-s3
+------------
+event: t>45
+t>45
+Cooler  speed set to: 8
+current state: s2-s3
+------------
+event: t>45
+t>45
+Cooler  speed set to: 8
+current state: s2-s3
+------------
+event: t>40
+t>40
+Cooler  speed set to: 8
+current state: s2-s3
+------------
+event: t>45
+t>45
+Cooler  speed set to: 8
+current state: s2-s3
+------------
+event: t>40
+t>40
+Cooler  speed set to: 8
+current state: s2-s3
+------------
+event: t>45
+t>45
+Cooler  speed set to: 8
+current state: s2-s3
+------------
+event: t>40
+t>40
+Cooler  speed set to: 8
+current state: s2-s3
+------------
+event: t>45
+t>45
+Cooler  speed set to: 8
+current state: s2-s3
+------------
+event: t>40
+t>40
+Cooler  speed set to: 8
+current state: s2-s3
+------------
+event: t<40
+t<40
+Cooler  speed set to: 8
+current state: s2-s2
+------------
+event: t>35
+t>35
+Cooler  speed set to: 6
+current state: s2-s2
+------------
+event: t<40
+t<40
+Cooler  speed set to: 6
+current state: s2-s2
+------------
+event: t>35
+t>35
+Cooler  speed set to: 6
+current state: s2-s2
+------------
+event: t<35
+t<35
+Cooler  speed set to: 6
+current state: s2-s1
+------------
+event: t>30
+t>30
+Cooler  speed set to: 4
+current state: s2-s1
+------------
+event: t<35
+t<35
+Cooler  speed set to: 4
+current state: s2-s1
+------------
+event: t>35
+t>35
+Cooler  speed set to: 4
+current state: s2-s1
+------------
+event: t<40
+t<40
+Cooler  speed set to: 4
+current state: s2-s1
+------------
+event: t>35
+t>35
+Cooler  speed set to: 4
+current state: s2-s1
+------------
+event: t<35
+t<35
+Cooler  speed set to: 4
+current state: s2-s1
+------------
+event: t>30
+t>30
+Cooler  speed set to: 4
+current state: s2-s1
+------------
+event: t<35
+t<35
+Cooler  speed set to: 4
+current state: s2-s1
+------------
+event: t>30
+t>30
+Cooler  speed set to: 4
+current state: s2-s1
+------------
+event: t<25
+t<25
+Cooler already turned off
+Heater already turned off
+current state: s1
+------------
+event: t<15
+t<15
+Cooler already turned off
+Turning on Heater
+current state: s3
+------------
+event: t<25
+t<25
+Cooler already turned off
+Heater already turned on
+current state: s3
+------------
+event: t>30
+t>30
+Cooler already turned off
+Turning off Heater
+current state: s1
+------------
+event: t<25
+t<25
+Cooler already turned off
+Heater already turned off
+current state: s1
+------------
+event: t>30
+t>30
+Cooler already turned off
+Heater already turned off
+current state: s1
+------------
+event: t<35
+t<35
+Cooler already turned off
+Heater already turned off
+current state: s1
+------------
+event: t>30
+t>30
+Cooler already turned off
+Heater already turned off
+current state: s1
+------------
+event: t<25
+t<25
+Cooler already turned off
+Heater already turned off
+current state: s1
+------------
+event: t>30
+t>30
+Cooler already turned off
+Heater already turned off
+current state: s1
+------------
+event: t<35
+t<35
+Cooler already turned off
+Heater already turned off
+current state: s1
+------------
+event: t>30
+t>30
+Cooler already turned off
+Heater already turned off
+current state: s1
+------------
+event: t<25
+t<25
+Cooler already turned off
+Heater already turned off
+current state: s1
+------------
+event: t>30
+t>30
+Cooler already turned off
+Heater already turned off
+current state: s1
+------------
+event: t<25
+t<25
+Cooler already turned off
+Heater already turned off
+current state: s1
+------------
+event: t<15
+t<15
+Cooler already turned off
+Turning on Heater
+current state: s3
+------------
+event: t<15
+t<15
+Cooler already turned off
+Heater already turned on
+current state: s3
+------------
+event: t<25
+t<25
+Cooler already turned off
+Heater already turned on
+current state: s3
+------------
+event: t<15
+t<15
+Cooler already turned off
+Heater already turned on
+current state: s3
+------------
+event: t<15
+t<15
+Cooler already turned off
+Heater already turned on
+current state: s3
+------------
+event: t<15
+t<15
+Cooler already turned off
+Heater already turned on
+current state: s3
+------------
+event: t<25
+t<25
+Cooler already turned off
+Heater already turned on
+current state: s3
+------------
+event: t>30
+t>30
+Cooler already turned off
+Turning off Heater
+current state: s1
+------------
+event: t<35
+t<35
+Cooler already turned off
+Heater already turned off
+current state: s1
+------------
+event: t>30
+t>30
+Cooler already turned off
+Heater already turned off
+current state: s1
+------------
+event: t<35
+t<35
+Cooler already turned off
+Heater already turned off
+current state: s1
